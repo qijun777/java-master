@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "UTF-8"?> <!--固定格式，标注文件是一个xml文件-->
+<!--节点都是成对出现的-->
+<students> <!--根节点 只能有一个-->
+	<!--子节点-->
+	<student id = "1500100001"> <!--节点属性-->
+		<name>施笑槐</name>
+		<age>15</age>
+		<gerder>女</gerder>
+		<clazz>文科六班</clazz>
+	</student>
+
+	<student id = "1500100002">
+		<name>张三</name>
+		<age>25</age>
+		<gerder>男</gerder>
+		<clazz>理科六班</clazz>
+	</student>
+<!--结束-->
+</students>

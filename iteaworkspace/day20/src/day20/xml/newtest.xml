@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students msg="学生信息">
+    <student id="500001">
+        <name>noviv</name>
+        <age>25</age>
+        <gender>男</gender>
+        <clazz>理科五班</clazz>
+    </student>
+</students>
